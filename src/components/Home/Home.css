@@ -1,0 +1,12 @@
+.cover {
+  /* background-color: aquamarine; */
+  background-image: url("cover.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 440px;
+  /* opacity: 0.3;
+   */
+  background-color: grey;
+  background-blend-mode: multiply;
+}

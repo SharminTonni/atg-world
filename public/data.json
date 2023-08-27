@@ -1,0 +1,98 @@
+[
+  {
+    "image": "nature.png",
+    "category": "article",
+    "title": "What if famous brands had regular fonts? Meet RegularBrands!",
+    "description": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+    "views": "1.4",
+
+    "author": {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR82xQ49NPUICym4Ug3L4V23jwo6O5WiHfZQw&usqp=CAU",
+      "name": "Sarthak Kamra"
+    }
+  },
+  {
+    "image": "door.png",
+    "category": "education",
+    "title": "Tax Benefits for Investment under National Pension Scheme launched by Government",
+    "description": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+    "views": "1.4",
+
+    "author": {
+      "img": "https://images.unsplash.com/photo-1670167872868-445c60d2a15b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE3fHx8ZW58MHx8fHx8&w=1000&q=80",
+      "name": "Sarah West"
+    }
+  },
+  {
+    "image": "car.png",
+    "category": "Meet ups",
+    "title": "Finance & Investment Elite Social Mixer @Lujiazui",
+    "date": "Fri, 12th oct, 2018",
+    "location": "Ahmedabad, India",
+    "website": "Visit Website",
+    "author": {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIAp6WMlhaKTUtnZeOEUtx_mx6A5cl8ppNMOPuypcZYBkwFBv-25Wza5HchFWAM6lWXQ4&usqp=CAU",
+      "name": "Ronal Jones"
+    }
+  },
+  {
+    "category": "job",
+    "title": "Software Developer",
+    "sub": "Innovaccer Analytics Private Ltd.",
+    "location": "Noida, India",
+    "website": "Apply on TimesJobs",
+    "views": "1.4",
+    "author": {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-UBAeoLYCTLu9j_wJp2Pppog-YXue6bd_OojIIT2xapqEWHiogftJdEUovC7ch3NmFLw&usqp=CAU",
+      "name": "Joseph Gary"
+    }
+  },
+  {
+    "image": "nature.png",
+    "category": "article",
+    "title": "What if famous brands had regular fonts? Meet RegularBrands!",
+    "description": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+    "views": "1.4",
+
+    "author": {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR82xQ49NPUICym4Ug3L4V23jwo6O5WiHfZQw&usqp=CAU",
+      "name": "Sarthak Kamra"
+    }
+  },
+  {
+    "image": "door.png",
+    "category": "education",
+    "title": "Tax Benefits for Investment under National Pension Scheme launched by Government",
+    "description": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+    "views": "1.4",
+
+    "author": {
+      "img": "https://images.unsplash.com/photo-1670167872868-445c60d2a15b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE3fHx8ZW58MHx8fHx8&w=1000&q=80",
+      "name": "Sarah West"
+    }
+  },
+  {
+    "image": "car.png",
+    "category": "Meet ups",
+    "title": "Finance & Investment Elite Social Mixer @Lujiazui",
+    "date": "Fri, 12th oct, 2018",
+    "location": "Ahmedabad, India",
+    "website": "Visit Website",
+    "author": {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIAp6WMlhaKTUtnZeOEUtx_mx6A5cl8ppNMOPuypcZYBkwFBv-25Wza5HchFWAM6lWXQ4&usqp=CAU",
+      "name": "Ronal Jones"
+    }
+  },
+  {
+    "category": "job",
+    "title": "Software Developer",
+    "sub": "Innovaccer Analytics Private Ltd.",
+    "location": "Noida, India",
+    "website": "Apply on TimesJobs",
+    "views": "1.4",
+    "author": {
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-UBAeoLYCTLu9j_wJp2Pppog-YXue6bd_OojIIT2xapqEWHiogftJdEUovC7ch3NmFLw&usqp=CAU",
+      "name": "Joseph Gary"
+    }
+  }
+]
